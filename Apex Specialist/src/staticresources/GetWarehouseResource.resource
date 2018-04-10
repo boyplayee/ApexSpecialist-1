@@ -1,0 +1,3 @@
+[{"_id":"55d66226726b611100aaf841","replacement":false,"quantity":1,"name":"Super Flanger","maintenanceperiod":60,"lifespan":120,"cost":55,"sku":"100080"},
+{"_id":"55d66226726b611100aaf842","replacement":true,"quantity":101,"name":"Round Tire","maintenanceperiod":1095,"lifespan":0,"cost":675,"sku":"100081"},
+{"_id":"55d66226726b611100aaf840","replacement":true,"quantity":104,"name":"Generator","maintenanceperiod":0,"lifespan":90,"cost":1100,"sku":"100082"}]
